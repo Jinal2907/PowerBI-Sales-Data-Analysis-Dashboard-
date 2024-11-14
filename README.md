@@ -37,5 +37,5 @@ Added a new column named Year by extracting the year from the order date field. 
 
 1. Clone the Repository:
 2. Open Power BI File:
-    * Launch Power BI Desktop.
-    * Open PowerBI_Project.pbix to access the full dashboard and data model.
+    + Launch Power BI Desktop.
+    + Open PowerBI_Project.pbix to access the full dashboard and data model.
